@@ -8,8 +8,8 @@ Prerequisites for this project:
 4. Numpy – 1.19.3
 
 Steps to Perform:
-Step 1 – Import necessary packages
-Step 2 – Initialize models
-Step 3 – Read frames from a webcam
-Step 4 – Detect hand keypoints
-Step 5 – Recognize hand gestures
+Step 1 – Import necessary packages->
+Step 2 – Initialize models->
+Step 3 – Read frames from a webcam->
+Step 4 – Detect hand keypoints->
+Step 5 – Recognize hand gestures.
